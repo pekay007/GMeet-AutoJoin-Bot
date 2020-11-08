@@ -18,5 +18,5 @@ Clone this repository
 ```
 git clone https://github.com/pekay007/GMeet-AutoJoin-Bot 
 
-python3 bot.py
+python3 meet.py
 ```
